@@ -18,7 +18,7 @@
 I am a **Java Backend Developer** currently pursuing my B.Tech in Computer Science at SRKR Engineering College (Expected 2028). I specialize in building scalable, secure, and efficient RESTful APIs and microservices using the **Spring Boot** ecosystem. I am passionate about database optimization, backend architecture, and developing practical applications that solve real-world problems.
 
 🌱 **Currently focusing on:** Deepening my knowledge in microservices, cloud-native architectures, and robust system design.  
-🎯 **Career Goal:** Actively seeking **Java Backend Developer internships** to apply my skills in high-impact environments.
+ 
 
 ---
 
