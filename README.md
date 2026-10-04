@@ -47,17 +47,3 @@ I am a **Java Backend Developer** currently pursuing my B.Tech in Computer Scien
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purnakoppadi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </div>
-
-<br/>
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=purnakoppadi&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Contribution Graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=purnakoppadi&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
